@@ -1,0 +1,9 @@
+gopi-portfolio/
+├── index.html
+├── assets/
+│   └── gopi_pic.jpg
+├── .github/
+│   └── workflows/
+│       └── deploy.yml   ← (auto-deploys to GitHub Pages)
+├── .gitignore
+└── README.md
